@@ -27,4 +27,8 @@ Data Refresh Information:
 
 https://app.powerbi.com/links/DTX86CfCRC?ctid=258ac4e4-146a-411e-9dc8-79a9e12fd6da&pbi_source=linkShare&bookmarkGuid=48362a82-5dae-41a5-b589-bd4501da468f
 
+
+![image](https://github.com/LeyanderJos/HR-Data-Analysis-Using-Power-BI/assets/135812635/0e966a86-7476-46c9-84ca-4b6f012517cf)
+
+
  
